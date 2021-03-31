@@ -4,3 +4,4 @@ Edit 02 14-March-2021 Submitted Python Basic Assignment_3
 Edit 03 15-March-2021 Submitted Python Basic Assignment_4  
 Edit 04 16-March-2021 Submitted Python Basic Assignment_5  
 Edit 05 16-March-2021 Submitted Python Basic Assignment_6  
+Edit 06 31-March-2021 Submitted Python Basic Assignment_7  
